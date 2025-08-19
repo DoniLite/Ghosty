@@ -32,7 +32,7 @@
     "paths": {
       "@/*": ["./src/*"]
     },
-    "types": ["bun-types", "reflect-metadata"]
+    "types": ["bun-types"]
   },
-	"include": ["src", "scripts", "tests", "server.tsx"],
+	"include": ["src", "tests"]
 }
